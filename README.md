@@ -1,4 +1,4 @@
-```markdown
+
 # SignSense: Real-Time Sign Language Translator 🤟
 
 SignSense is a Python application that uses computer vision and machine learning to translate American Sign Language (ASL) gestures into text in real-time. Built with a MediaPipe backend and a Streamlit frontend, it provides an intuitive and seamless communication bridge.
